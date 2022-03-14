@@ -39,5 +39,5 @@ const aboutMe = {
 <p>- Portfolio : <a href="https://ivowainer.com">Cooming Soon</a></p>
 
 ---
-```
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+
+<p>⭐️ From inspired <a href="https://github.com/reeveng">[reeveng]</a> by <a href="https://github.com/sudiptog81">[sudiptog81]</a> and <a href="https://github.com/">[FelixRilling]</a></p>
