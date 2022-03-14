@@ -1,16 +1,43 @@
-### Hi there 👋
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
-<!--
-**Ivowainer/ivowainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p><em>A High school senior at <a href="https://secundariabelgrano.com.ar/">Secundaria Belgrano 2060</a>, orientation in programming communication, arts and design. 😊</br>
+</em></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [Javascript, HTML, CSS, PHP],
+   technologies: {
+      frontEnd: {
+         js: ["Gulp"],
+         css: ["Materialize", "Bootstrap", "Material Design"]
+      },
+      backEnd: {
+         php: ["lavarel"]
+         js: ["Node", "Express"],
+      },
+      databases: ["mySQL"],
+      mobile: ["Android"]
+   },
+   currentOccupation: ["High school senior, open to job opportunities"],
+   challenge: "Learn new technologies, especially React JS.",
+};
+```
+</br></br>
+<h2>💻 Some stats 💻</h2>
+
+![IvoWainer's github stats](https://github-readme-stats.vercel.app/api?username=ivowainer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivowainer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</br></br>
+<h2> 📫 How to reach me: </h2>
+<p>- Email : ivancamposwainer@gmail.com</p>
+<p>- Twitter : <a href="https://twitter.com/ivowainer">Cooming Soon</a></p>
+<p>- Portfolio : <a href="https://ivowainer.com">Cooming Soon</a></p>
+
+---
+
+`⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)`
