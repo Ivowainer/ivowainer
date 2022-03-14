@@ -15,7 +15,7 @@ const aboutMe = {
          css: ["Materialize", "Bootstrap", "Material Design"]
       },
       backEnd: {
-         php: ["lavarel"]
+         php: ["lavarel"],
          js: ["Node", "Express"],
       },
       databases: ["mySQL"],
