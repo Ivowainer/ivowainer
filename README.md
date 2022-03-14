@@ -16,13 +16,13 @@ const aboutMe = {
       },
       backEnd: {
          php: ["lavarel"],
-         js: ["Node", "Express"],
+         js: [],
       },
       databases: ["mySQL"],
       mobile: ["Android"]
    },
    currentOccupation: ["High school senior, open to job opportunities"],
-   challenge: "Learn new technologies, especially React JS.",
+   challenge: "Learn new technologies, especially ReactJS and NodeJS.",
 };
 ```
 </br></br>
