@@ -1,7 +1,7 @@
-<img src="https://github.com/Ivowainer/ivowainer/blob/main/img/card.png"/>
+ <img src="https://github.com/Ivowainer/ivowainer/blob/main/img/card.png"/>
 
 
-<p><em>A High school senior at <a href="https://secundariabelgrano.com.ar/">Secundaria Belgrano 2060</a>, orientation in programming communication, arts and design. 😊</br>
+<p><em>A High school senior at <a href="https://secundariabelgrano.com.ar/">Secundaria Belgrano 2060</a>, orientation in programming, communication, arts and design. 😊</br>
 </em></p>
 
 
@@ -14,11 +14,8 @@ const aboutMe = {
          js: ["Gulp"],
          css: ["Materialize", "Bootstrap", "Material Design", "SASS"]
       },
-      backEnd: {
-         php: ["lavarel"],
-         js: [],
-      },
-      databases: ["mySQL"],
+      backend: ["PHP"] 
+      databases: ["MySQL"],
       mobile: ["Android"]
    },
    currentOccupation: ["High school senior, open to job opportunities"],
