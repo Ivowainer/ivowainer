@@ -12,7 +12,7 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["Gulp"],
-         css: ["Materialize", "Bootstrap", "Material Design", "SASS"]
+         css: ["Materialize", "Bootstrap", "Material Design", "SASS", "TailWind"]
       },
       backend: ["PHP"] 
       databases: ["MySQL"],
