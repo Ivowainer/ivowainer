@@ -14,7 +14,7 @@ const aboutMe = {
          js: ["Gulp"],
          css: ["Materialize", "Bootstrap", "Material Design", "SASS", "TailWind"]
       },
-      backend: ["PHP"] 
+      backend: ["PHP"], 
       databases: ["MySQL"],
       mobile: ["Android"]
    },
