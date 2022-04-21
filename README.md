@@ -11,7 +11,7 @@ const aboutMe = {
    code: ["Javascript", "HTML", "CSS", "PHP"],
    technologies: {
       frontEnd: {
-         js: ["Gulp"],
+         js: ["Gulp", "React"],
          css: ["Materialize", "Bootstrap", "Material Design", "SASS", "TailWind"]
       },
       backend: ["PHP"], 
@@ -19,7 +19,7 @@ const aboutMe = {
       mobile: ["Android"]
    },
    currentOccupation: ["High school senior, open to job opportunities"],
-   challenge: "Learn new technologies, especially ReactJS and NodeJS.",
+   challenge: "Learn new technologies, especially NextJS and NodeJS.",
 };
 ```
 </br></br>
