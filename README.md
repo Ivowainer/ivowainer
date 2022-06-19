@@ -8,14 +8,14 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: ["Javascript", "HTML", "CSS", "PHP"],
+   code: ["Javascript", "HTML", "CSS", "PHP", "NodeJS"],
    technologies: {
       frontEnd: {
-         js: ["Gulp", "React"],
+         js: ["Gulp", "React", "Node", "Express", "Next"],
          css: ["Materialize", "Bootstrap", "Material Design", "SASS", "TailWind"]
       },
-      backend: ["PHP"], 
-      databases: ["MySQL"],
+      backend: ["PHP", "Node", "Express", "Mongoose"], 
+      databases: ["MySQL", "MongoDB"],
       mobile: ["Android"]
    },
    currentOccupation: ["High school senior, open to job opportunities"],
