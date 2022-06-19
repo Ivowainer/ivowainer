@@ -12,7 +12,8 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["Gulp", "React", "Node", "Express", "Next"],
-         css: ["Materialize", "Bootstrap", "Material Design", "SASS", "TailWind"]
+         css: ["Materialize", "Bootstrap", "Material Design", "SASS", "TailWind"],
+         orm: ["Strapi", "Prisma"]
       },
       backend: ["PHP", "Node", "Express", "Mongoose"], 
       databases: ["MySQL", "MongoDB"],
