@@ -1,5 +1,6 @@
- <img src="https://github.com/Ivowainer/ivowainer/blob/main/img/card.png"/>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p><em>A High school senior at <a href="https://secundariabelgrano.com.ar/">Secundaria Belgrano 2060</a>, orientation in programming, communication, arts and design. 😊</br>
 </em></p>
