@@ -1,32 +1,32 @@
 <h1 align="center">Hi Folks! :)), I'm ivowainer</h1>
-<h4 align="center">https://ivancamposwainer.com/</h2>
+<h4 align="center">https://ivancamposwainer.vercel.app/</h2>
 
-<p><em>A High school senior at <a href="https://secundariabelgrano.com.ar/">Secundaria Belgrano 2060</a>, orientation in programming, communication, arts and design. 😊</br>
+<p><em>Backend Developer & LCC Student (Sciente Computer)</br>
 </em></p>
 
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/ivan-campos-wainer-738a36209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/></a>
-  <a href="https://instagram.com/ivowainer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="110" alt="Instagram Badge"/></a>
-  <a href="https://twitter.com/ivowainer"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="97"/></a>
 </div>
 <div align="center">
-  <a href="https://drive.google.com/file/d/1nX0jZ5ZTemDfu6FXl_-b02XsN72qHd3O/view?usp=sharing" />📝 Know my skills</a>
+  <a href="https://drive.google.com/file/d/1roOGtBpcxxP0CACpKGiUVnscemB9VT8J/view?usp=drive_link" />📝 Know my skills</a>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=ivowainer)
 
 <h1>Skills</h1>
 <div>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <a/>
+  <a href="https://www.typescriptlang.org/docs"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /> <a/>
+  <a href="https://nodejs.org/es/docs/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <a/>
   <a href="https://expressjs.com/es/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <a/>
-  <a href="https://es.reactjs.org/docs/getting-started.html"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <a/>
-  <a href="https://tailwindcss.com/docs/installation"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <a/>
+  <a href="https://devdocs.io/c/"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" /> <a/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" /> <a/>
+  <a href="https://docs.python.org/3/"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> <a/>
   <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <a/>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" /> <a/>
   <a href="https://jwt.io/introduction"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> <a/>
   <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <a/>
-  <a href="https://nodejs.org/es/docs/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <a/>
-  <a href="https://git-scm.com/doc"><img src="https://camo.githubusercontent.com/b46e59b09c063a31380646688a68018381767a7a206547c93f896df4643671e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030303030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" /> <a/>
-    <a href="https://git-scm.com/doc"><img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" /> <a/>
+  <a href="https://tailwindcss.com/docs/installation"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <a/>
+  <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /> <a/>
 </div>
     
 </br></br>
