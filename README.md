@@ -15,7 +15,7 @@
 
 <h1>Skills</h1>
 <div>
-  <a href="https://www.typescriptlang.org/docs"><img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <a/>
+  <a href="https://www.typescriptlang.org/docs"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <a/>
   <a href="https://nodejs.org/es/docs/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <a/>
   <a href="https://expressjs.com/es/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <a/>
   <a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <a/>
