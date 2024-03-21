@@ -15,18 +15,18 @@
 
 <h1>Skills</h1>
 <div>
-  <a href="https://www.typescriptlang.org/docs"><img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" /> <a/>
+  <a href="https://www.typescriptlang.org/docs"><img src=https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <a/>
   <a href="https://nodejs.org/es/docs/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <a/>
   <a href="https://expressjs.com/es/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <a/>
-  <a href="https://devdocs.io/c/"><img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" /> <a/>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" /> <a/>
-  <a href="https://docs.python.org/3/"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" /> <a/>
+  <a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <a/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> <a/>
+  <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <a/>
   <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <a/>
-  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" /> <a/>
+  <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <a/>
   <a href="https://jwt.io/introduction"><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" /> <a/>
   <a href="https://nextjs.org/docs"><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <a/>
   <a href="https://tailwindcss.com/docs/installation"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <a/>
-  <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /> <a/>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <a/>
 </div>
     
 </br></br>
