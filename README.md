@@ -12,10 +12,10 @@
 <h1>Skills</h1>
 <div>
   <a href="https://www.typescriptlang.org/docs"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> <a/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> <a/>
   <a href="https://nodejs.org/es/docs/"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <a/>
   <a href="https://expressjs.com/es/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <a/>
   <a href="https://devdocs.io/c/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <a/>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /> <a/>
   <a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <a/>
   <a href="https://www.mongodb.com/docs/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <a/>
   <a href="https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver16"><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <a/>
