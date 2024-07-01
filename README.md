@@ -1,7 +1,7 @@
 <h1 align="center">Hi Folks! :)), I'm ivowainer </h1>
 
 <div id="header" align="center">
-<p style="font-size: 13px;font-weight: 200;"><em>Backend Developer & LCC Student (Science Computer)</br>
+<p style="font-size: 13px;font-weight: 200;"><em>Backend Developer & LCC Student (Computer Science)</br>
 </em></p>
   <a href="https://www.linkedin.com/in/ivan-campos-wainer-738a36209/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"/></a>
 </div>
